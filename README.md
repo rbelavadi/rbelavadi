@@ -13,29 +13,23 @@
   Developed a full-stack engine with Boolean & TF-IDF ranking, PageRank, n-gram indexing, and near-duplicate detection. Built a polite custom crawler indexing over 56,000 pages.
 
 ## 🧠 Technical Toolkit
-```text
-Languages: Python, C++, Java, JavaScript (Node.js, React.js)
-Backend & AI Tools: LangGraph, Cookbook, MongoDB, Express, FastAPI, Firebase
-Concepts: Agentic RAG, API Design, Indexing & IR, Crawl Engineering
-📌 Highlight Projects
-CampusNest – Real-time student housing app (Firebase + React/Node)
+Languages: Python, C++, Java, JavaScript (Node.js, React.js)  
+Backend & AI Tools: LangGraph, Cookbook, MongoDB, Express, FastAPI, Firebase  
+Concepts: Agentic RAG, API Design, Indexing & IR, Crawl Engineering  
 
-Search Engine – From-scratch Google-style web indexer (disk-based indexing, TF-IDF, PageRank)
+##📌 Highlight Projects  
+Medical Assistant (In Progress) – Context-aware AI assistant for medication tracking and assistance  
+[Search Engine](https://github.com/rbelavadi/web-search-engine) – From-scratch Google-style web indexer (disk-based indexing, TF-IDF, PageRank)  
+[CampusNest](https://github.com/rbelavadi/CampusNest) – Real-time student housing app (Firebase + React/Node)
 
-Medical Assistant (In Progress) – Context-aware AI assistant for medication education and tracking
+##🗂️ Other Involvements
+🧭 Learning Assistant @ UCI ICS – Tutoring intermediate Python students  
+🏥 Founding Member @ CareTech – Ran 15+ ML-in-healthcare workshops  
+📊 Mendix Micro-Intern – Built low-code apps and scoped automation use cases  
 
-🗂️ Other Involvements
-🧭 Learning Assistant @ UCI ICS – Tutoring intermediate Python students
-
-🏥 Founding Member @ CareTech – Ran 15+ ML-in-healthcare workshops
-
-📊 Mendix Micro-Intern – Built low-code apps and scoped automation use cases
-
-🩰 Dancer @ UCI Zamana – 3x national titles + $7K raised in sponsorships
-
-📫 Let's Connect
+##📫 Let's Connect
 💼 [LinkedIn](https://www.linkedin.com/in/ranjani-belavadi)  
-🧑‍💻 [GitHub](https://github.com/rbelavadi)
+🧑‍💻 [GitHub](https://github.com/rbelavadi)  
 📬 rbelavad@uci.edu
 
 <!--
