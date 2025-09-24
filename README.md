@@ -4,10 +4,10 @@
 
 ## 🚀 What I'm Doing Now
 - 🤖 **AI Product Intern @ Vectorial AI**  
-  Using LangGraph + Cookbook to evaluate agentic outputs via LLM-as-a-judge, and designing a summarization pipeline to turn dense product data into PM-ready emails.
+  Using LangGraph to evaluate agentic outputs via LLM-as-a-judge, and designing a summarization pipeline to turn dense product data into PM-ready emails.
 
 - 💊 **Building a Medical Assistant** (WIP)  
-  A personal AI agent for Indian elders to help parse prescriptions, explain medicines in plain terms, and track long-term health changes.
+  A personal AI agent for the elderly to help parse prescriptions, explain medicines in plain terms, and track long-term health changes.
 
 - 🕸️ **Web Search Engine Project**  
   Developed a full-stack engine with Boolean & TF-IDF ranking, PageRank, n-gram indexing, and near-duplicate detection. Built a polite custom crawler indexing over 56,000 pages.
@@ -18,7 +18,7 @@ Backend & AI Tools: LangGraph, Cookbook, MongoDB, Express, FastAPI, Firebase
 Concepts: Agentic RAG, API Design, Indexing & IR, Crawl Engineering  
 
 ## 📌 Highlight Projects  
-Medical Assistant (In Progress) – Context-aware AI assistant for medication tracking and assistance  
+[MediBuddy](https://github.com/rbelavadi/MediBuddy) (In Progress) – Context-aware AI assistant for medication tracking and assistance  
 [Search Engine](https://github.com/rbelavadi/web-search-engine) – From-scratch Google-style web indexer (disk-based indexing, TF-IDF, PageRank)  
 [CampusNest](https://github.com/rbelavadi/CampusNest) – Real-time student housing app (Firebase + React/Node)
 
