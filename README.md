@@ -51,6 +51,6 @@ Building technical systems that are product-conscious, user-aware, and scalable.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ranjani--belavadi-blue)](https://www.linkedin.com/in/ranjani-belavadi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ranjanibelavadi.pages.dev-green)](https://ranjanibelavadi.pages.dev)
-📬 rbelavad@uci.edu
+[LinkedIn](https://www.linkedin.com/in/ranjani-belavadi)
+[Portfolio](https://ranjanibelavadi.pages.dev)
+[rbelavad@uci.edu](rbelavad@uci.edu)
