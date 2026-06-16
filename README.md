@@ -1,48 +1,56 @@
-# 👋 Hi, I'm Ranjani Belavadi
+# Hi, I'm Ranjani 👋
 
-🎓 I'm a CS + Business Info Management student at UC Irvine (Class of 2027), with a passion for building technical systems that are product-conscious, user-aware, and scalable.
+CS + Business Information Management @ UC Irvine (Class of 2027)  
+Building technical systems that are product-conscious, user-aware, and scalable.
 
-## 🚀 What I'm Doing Now
-- 🤖 **AI Product Intern @ Vectorial AI**  
-  Using LangGraph to evaluate agentic outputs via LLM-as-a-judge, and designing a summarization pipeline to turn dense product data into PM-ready emails.
+---
 
-- 💊 **Building a Medical Assistant** (WIP)  
-  A personal AI agent for the elderly to help parse prescriptions, explain medicines in plain terms, and track long-term health changes.
+## 🔨 What I'm Working On
 
-- 🕸️ **Web Search Engine Project**  
-  Developed a full-stack engine with Boolean & TF-IDF ranking, PageRank, n-gram indexing, and near-duplicate detection. Built a polite custom crawler indexing over 56,000 pages.
+- **Apache Texera** — Contributing to an Apache Software Foundation open source project; 
+  2 PRs merged/under review on a human-AI collaborative data science platform
+- **TripSave** *(WIP)* — Mobile app (React Native + Expo + Go) to organize social media 
+  saves into trip planners. "Save it now, plan it later."
+- **MediBuddy** — AI pipeline that translates prescription labels into plain-language 
+  guidance for elderly users using Claude Haiku, RxNorm, and FDA DailyMed data
 
-## 🧠 Technical Toolkit
-Languages: Python, C++, Java, JavaScript (Node.js, React.js)  
-Backend & AI Tools: LangGraph, Cookbook, MongoDB, Express, FastAPI, Firebase  
-Concepts: Agentic RAG, API Design, Indexing & IR, Crawl Engineering  
+---
 
-## 📌 Highlight Projects  
-[MediBuddy](https://github.com/rbelavadi/MediBuddy) (In Progress) – Context-aware AI assistant for medication tracking and assistance  
-[Search Engine](https://github.com/rbelavadi/web-search-engine) – From-scratch Google-style web indexer (disk-based indexing, TF-IDF, PageRank)  
-[CampusNest](https://github.com/rbelavadi/CampusNest) – Real-time student housing app (Firebase + React/Node)
+## 💼 Experience
 
-## 🗂️ Other Involvements
-🧭 Learning Assistant @ UCI ICS – Tutoring intermediate Python students  
-🏥 Founding Member @ CareTech – Ran 15+ ML-in-healthcare workshops  
-📊 Mendix Micro-Intern – Built low-code apps and scoped automation use cases  
+- **Product & Software Engineering Intern @ Rapidious** — Building an AI chat agent 
+  for Titan.AI, a market intelligence dashboard serving 2,600+ RV dealerships. Natural 
+  language querying of real-time inventory and market data using CrewAI, Claude API, 
+  SQLite, and Streamlit. Also prototyping automated listing tag extraction at scale.
+- **Product & Software Engineering Intern @ Vectorial AI** — Built LangChain/LangGraph 
+  agentic pipelines and NLP classification systems for enterprise product teams
+- **Software Engineering Intern @ Athmick Inc** — FastAPI + MongoDB backend, 
+  25% reduction in API response time
+
+---
+
+## 🛠️ Technical Toolkit
+
+**Languages:** Python, JavaScript/TypeScript, C/C++, Java  
+**Frameworks:** React.js, Node.js, Vite, Next.js, Express, Tailwind, FastAPI, Flask  
+**AI & Backend Systems:** LangChain, LangGraph, Microsoft Presidio, RxNorm, DailyMed, FAISS, Prompt Engineering  
+**Databases & Cloud:** MongoDB, Supabase, PostgreSQL, Firebase, AWS, GCP, Git, Data Pipelines, CI/CD  
+
+---
+
+## 📌 Projects
+
+| Project | Stack | Link |
+|---|---|---|
+| Apache Texera Contributions | TypeScript, Angular | [PRs](https://github.com/apache/texera/pulls?q=author%3Arbelavadi) |
+| MediBuddy | Next.js, Claude AI, RxNorm | [Repo](https://github.com/rbelavadi/MediBuddy) |
+| Web Search Engine | Python, React.js, NLTK | [Repo](https://github.com/rbelavadi/web-search-engine) |
+| CampusNest | React, Firebase, GCP | [Repo](https://github.com/rbelavadi/CampusNest) |
+
+---
 
 ## 📫 Let's Connect
-💼 [LinkedIn](https://www.linkedin.com/in/ranjani-belavadi)  
-🧑‍💻 [GitHub](https://github.com/rbelavadi)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ranjani--belavadi-blue)](https://www.linkedin.com/in/ranjani-belavadi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ranjanibelavadi.pages.dev-green)](https://ranjanibelavadi.pages.dev)
 📬 rbelavad@uci.edu
-
-<!--
-**rbelavadi/rbelavadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
